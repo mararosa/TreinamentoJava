@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<receita nome="pão" tempo_de_preparo="5 minutos" tempo_de_cozimento="1 hora">
+    <titulo>Pão simples</titulo>
+    <ingredientes>
+        <ingrediente quantidade="3" unidade="xícaras">Farinha de Trigo</ingrediente>
+    </ingredientes>
+</receita>
